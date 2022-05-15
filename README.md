@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DominicKampmann
-- 👀 I’m interested in Science, Tech, 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Science, Tech, Traveling, Nature and lots more
+- 🌱 I’m currently learning web development in Flask
+- 💞️ I’m looking to collaborate on ... n/a
+- 📫 How to reach me ... dominickampmann@googlemail.com
 
 <!---
 DominicKampmann/DominicKampmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
